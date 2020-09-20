@@ -4,7 +4,7 @@ public class problem02 {
         //
         System.out.println("*Hello, World*");
         //
-        System.out.println("***************");
+        System.out.println("****************");
         //
 
 
